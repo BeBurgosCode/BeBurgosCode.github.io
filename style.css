@@ -12,6 +12,10 @@ h3 {color: red;
   font-size: 24px;
 font-family: Arial}
 
+h5 {font-size: 16px;}
+
+h6 {font-size: 14px}
+
 .exp-header {text-transform: uppercase; 
   text-align: center;
 border-top: 1px solid #dddddd;
